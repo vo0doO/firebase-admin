@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "skupka-kirsanov",
+  "private_key_id": "3b4680c341157e0756498a13296e9a4eb5168819",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCbHaNVzSJrAHIr\nsAB7y+2Ycbp3mml7VWOA2GWhDLQlIHRN2QwX9YwUyxSc/nSlDQEbWF2EKCegMWXD\n7PgwSrpoQfh9s604MN8v3+P+na9yvKiMCtYEnV2Z4q6xFJEYJIAopZF4THXHXWym\n1AEfPewMjPkzLaj3sDaTNBRPqZg/NWv9aEw4u22m2QmVL8Tpi8lu1mZ83fOgFig7\n4K+4Jr7QdaAV17cmPckSQDs7tRbyaBTlRawCdRKyKE1IMmq84a/BgfSlY1756CfS\nkMLlT4wFKIQRtRzC7tNybk+GUw/y0YvdtNvWELKWv6aDXjnqM33QZta0qHjYnOHa\n4sUZYG+lAgMBAAECggEAA0O3sQY5SWUIpQCNcJkvk6eT/5zC3zArDKlSsYFe8HwA\nMM1rJY6q2j3njG2S4z8Y//TgIvhCd2rM6GX4V5SST8AiOwvASSeMs6k8bmwcm1jY\nA0BSxGVeXXq8kEhqhsZ1J6uovTE48J3sMDJIOCB4CpXCxILJ2++KjcUXjLQzN7Wq\n/f8Pv3ZmwUahutXXvzmQQoURnUvIqrbnzXrkPTpwgbL5C/qdXFO9bnF7FdjyM1Jm\n5vu4bUTULq5fI0IIZnTtAKHgKOMiM4Jyn0cSsLuHTfzrnpeTUpD/U8phBBFyn0MU\n/51A8ytZyEYlrdG2i8ROJ31dXVqArXXa18qIhQL8AQKBgQDQaFa317WGTPluX9pO\nm+nj+kg8oHvl1kKexvYcp80hJrq5Kvw/WVF8OOv60RFYU9hJHMaxEG1q6AMbYQNx\n5XpPIz7eFrb7OFNi3DnydTKvqiHDa3mbCG9r2T4ssIcOMRJGdxcAj53hM3mG4i6g\nsXsKx/ZTO6j4O4hqIijWeuiPZQKBgQC+idI3tyZccYItqk+EE3r7LCiybqZ282nq\ngdjo5HR+UhYMKl0CBQH597NEhffmMBln6CLCeQ1klx6DVZY7Xau2hGsIJBk44VE3\n622ZVRvXasclXxwJiAVuZ2Yu3fqMy44FQTZroZNOyp5PwhmpwKlhHjGne1FDm2Uh\n+GLxmwz7QQKBgH4eZjwjAesgMeIlh4sCt2wLTiPCSrgwDWjgppd4xJ5HPcBIzxXX\nC4TNPaEvW/vD4aN9EpCcjFqhxR+QefE3GelCPw1PWbR1xaCR/U9ItT+xCXWlWJYF\naMgvU3zf5xsjfxe9geIJB1X9PJHv1p/QR9GiaOK9u+dcv5TazzPcdVgxAoGBALQb\nWP/be0J09UWvMHy7YUudgVaxK19TVfIbDWuPz+I8O6UCQmqPSz/6+ZSzQhJvswQ6\nNOk5PgSwqGIi++Bf+dmMMBRA8yqGKZy/SRlgjvHAeECGN912mxOyX6+7moOOQlAL\nRaLV14XqF11zL4j7meA4h102Pym18RH8VaLmGo5BAoGAOwI2rsvcG4r8IAqDcE+m\nrotA7IA+o+XQV2I9SI2zkeUMXDQvhxnIgPlrMNAetFjy7icIktScD9BiUO5OEOo/\nOVcjx5ZIxIe10Ekpwb+7/z74fjWRI4SFvBMZv6aaVhhTl6W5QKL2/Ss9B3W5atj5\nrz+lDjjE2HNSbro8kVRmMlA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "nodejs@skupka-kirsanov.iam.gserviceaccount.com",
+  "client_id": "100065032320123396939",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nodejs%40skupka-kirsanov.iam.gserviceaccount.com"
+}
